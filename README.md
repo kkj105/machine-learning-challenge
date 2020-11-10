@@ -1,5 +1,4 @@
 # machine-learning-challenge
-Create a README that reports a comparison of each model's performance as well as a summary about your findings and any assumptions you can make based on your model (is your model good enough to predict new exoplanets? Why or why not? What would make your model be better at predicting new exoplanets?).
 
 Modeling this data held consistently steady. Neither model varied greatly from the other, however, model 2 was chosen because when creating a Random Forest Classifier, more n_estimators were selected in order to create more trees in the forest. 
 
